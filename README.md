@@ -1,2 +1,3 @@
 # Covid2019India
-Analysis and visualisation of COVID 2019 in India
+Basic visualisation and analysis of COVID 2019 in India upto April 9,2020. 
+Implemented in Python.
